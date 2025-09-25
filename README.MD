@@ -75,12 +75,9 @@ README.md → Project documentation
 
 ---
 
-Setup Instructions:
+## Setup Instructions:
 
 git clone https://github.com/ABHINAV1111-WEB/Phishing_Classifier
-
-Install dependencies: pip install -r requirements.txt
-
 
 
 
