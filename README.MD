@@ -34,7 +34,7 @@ README.md → Project documentation
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: [Phishing_Legitimate_full.csv on Kaggle](https://www.kaggle.com/datasets/monasahoo/phishing-website)
 - **Features**: 49 numerical features extracted from URLs
@@ -44,11 +44,11 @@ README.md → Project documentation
 
 ---
 
-## 🧠 Model Training
+##  Model Training
 
 - Models used:
-  - ✅ Random Forest
-  - ✅ XGBoost
+  -  Random Forest
+  -  XGBoost
 - Evaluation:
   - Accuracy comparison
   - Best model selected and saved as `phishing_model.pkl`
@@ -56,7 +56,7 @@ README.md → Project documentation
 
 ---
 
-## 🧪 Inference
+##  Inference
 
 - Notebook: `infer_model.ipynb`
 - Loads saved model and scaler
@@ -65,7 +65,7 @@ README.md → Project documentation
 
 ---
 
-## 🌐 Web App (Flask)
+## Web App (Flask)
 
 - File: `app.py`
 - UI: `templates/index.html`
@@ -75,7 +75,7 @@ README.md → Project documentation
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -87,10 +87,6 @@ pip install -r requirements.txt
  ## Run Flask app
 
 python app.py
-
-
-## Screenshots
-Include screenshots of your web app UI and prediction results here 
 
 
 ## Highlights
