@@ -1,0 +1,36 @@
+# Core Data & ML Libraries
+pandas==2.1.0
+numpy==1.25.2
+scikit-learn==1.3.0
+xgboost==1.7.6
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Web Frameworks
+flask==2.3.3
+streamlit==1.27.0
+
+# MongoDB Integration
+pymongo==4.5.0
+dnspython==2.4.2
+
+# Environment & Config Management
+python-dotenv==1.0.0
+
+# Logging & Exception Handling
+loguru==0.7.0
+
+# AWS Deployment
+boto3==1.28.57
+
+# Dockerization Support (optional)
+docker==6.1.3
+
+# Model Registry (optional)
+mlflow==2.7.1
+
+# Utility
+requests==2.31.0
+joblib==1.3.2

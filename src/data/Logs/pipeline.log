@@ -1,0 +1,13 @@
+2025-09-08 23:56:12,979 - INFO - \u2705 Train-test split completed successfully.
+2025-09-08 23:56:36,370 - INFO - Train-test split completed successfully.
+2025-09-08 23:57:52,126 - ERROR - \u274c Train-test split failed: Input should have at least 1 dimension i.e. satisfy `len(x.shape) > 0`, got scalar `array(Ellipsis, dtype=object)` instead.
+2025-09-09 14:16:34,276 - INFO - Train-test split completed successfully.
+2025-09-09 14:16:37,729 - ERROR - \u274c Train-test split failed: name 'train_test_split' is not defined
+2025-09-09 14:19:38,316 - INFO - Train-test split completed successfully.
+2025-09-09 14:19:41,626 - ERROR - \u274c Train-test split failed: name 'train_test_split' is not defined
+2025-09-09 14:35:02,799 - INFO - Train-test split completed successfully.
+2025-09-09 14:35:05,265 - ERROR - \u274c Train-test split failed: name 'train_test_split' is not defined
+2025-09-09 14:59:38,920 - INFO - Train-test split completed successfully.
+2025-09-09 14:59:38,999 - ERROR - \u274c Train-test split failed: Input should have at least 1 dimension i.e. satisfy `len(x.shape) > 0`, got scalar `array(Ellipsis, dtype=object)` instead.
+2025-09-09 16:29:13,134 - INFO - Train-test split completed successfully.
+2025-09-09 16:29:13,315 - ERROR - \u274c Train-test split failed: Input should have at least 1 dimension i.e. satisfy `len(x.shape) > 0`, got scalar `array(Ellipsis, dtype=object)` instead.
