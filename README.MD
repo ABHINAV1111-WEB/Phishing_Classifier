@@ -75,13 +75,19 @@ README.md → Project documentation
 
 ---
 
+Setup Instructions:
+
+git clone https://github.com/ABHINAV1111-WEB/Phishing_Classifier
+
+Install dependencies: pip install -r requirements.txt
+
+
+
+
 ##  How to Run
 
 ### 1. Install dependencies
-
-```bash
 pip install -r requirements.txt
-
 
 
  ## Run Flask app
@@ -89,11 +95,8 @@ pip install -r requirements.txt
 python app.py
 
 
-## Highlights
-Modular codebase with reproducible workflow
 
-Clean UI for user input and prediction
 
-Professional logging and error handling
 
-Ready for portfolio, resume, and deployment
+
+
